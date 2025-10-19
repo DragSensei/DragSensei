@@ -1,28 +1,65 @@
-[![MasterHead](https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg)](https://rishavchanda.io)
+# Hi there, I'm Yousef Tamer 👋
 
-<h1 align="center">Hi 👋, I'm Yousef Tamer</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cf/7b/4d/cf7b4d49a5d1c6afb2449fa82b620418.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragsensei&label=Profile%20views&color=0e75b6&style=flat" alt="dragsensei" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning, OpenCV specifically in python**
-
-- 💬 Ask me about **Data structures, Python, CPP, SQLite3 and C**
-
-- 📫 How to reach me **youseftmoharam2511@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/dragondce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dragondce" height="30" width="40" /></a>
-<a href="https://discord.gg/dragonclaws_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dragonclaws_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousef-tamer-moharam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youseftmoharam2511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I'm a results-driven Computer Science student at Ain Shams University with a passion for designing, developing, and deploying full-stack desktop applications. I have hands-on experience building complete systems from the ground up, with a focus on creating efficient, user-friendly, and robust software.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragsensei&show_icons=true&locale=en&layout=compact" alt="dragsensei" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragsensei&show_icons=true&locale=en" alt="dragsensei" /></p>
+### 💻 Skills & Technologies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragsensei&" alt="dragsensei" /></p>
+<p align="left">
+  <strong>Languages:</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<p align="left">
+  <strong>Frameworks & Libraries:</strong><br/>
+  <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" alt="Tkinter"/>
+  <img src="https://img.shields.io/badge/JavaFX-blue?style=for-the-badge" alt="JavaFX"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+<p align="left">
+  <strong>Tools & Databases:</strong><br/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PyInstaller-grey?style=for-the-badge" alt="PyInstaller"/>
+</p>
+
+---
+
+### 🚀 Featured Project
+
+#### [Restaurant Management System (POS)](https://github.com/DragSensei/restaurant-project)
+A comprehensive POS system built with Python and Tkinter that automated inventory management, sales tracking, and role-based access control, improving efficiency by an estimated 30%.
+
+* **Key Features:** Bilingual (EN/AR) support, real-time inventory tracking, and financial report exporting to PDF/CSV.
+* **Technologies:** Python, Tkinter, SQLite, ReportLab, Pandas.
+
+---
+
+### 🌱 I'm Currently Learning
+
+-   Advanced machine learning techniques and exploring new deep learning architectures.
+-   Best practices for large-scale application design and deployment.
+
+Feel free to reach out—I'm always open to connecting and discussing technology and new opportunities!
