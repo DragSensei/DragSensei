@@ -42,12 +42,19 @@ I'm a results-driven Computer Science student at Ain Shams University with a pas
   <strong>Tools & Databases:</strong><br/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/PyInstaller-grey?style=for-the-badge" alt="PyInstaller"/>
 </p>
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+#### [Watch-It Media Player](https://github.com/yusufahmed9/watch-it)
+A desktop media player built with JavaFX that supports streaming and browsing for a large library of movies and series. It features a robust authentication and role-based access system for users and administrators.
+
+* **Key Features:** User subscription plans, content management for admins, and a searchable media library.
+* **Technologies:** Java, JavaFX, Maven, JSON for data storage.
 
 #### [Restaurant Management System (POS)](https://github.com/DragSensei/restaurant-project)
 A comprehensive POS system built with Python and Tkinter that automated inventory management, sales tracking, and role-based access control, improving efficiency by an estimated 30%.
