@@ -70,3 +70,7 @@ A comprehensive POS system built with Python and Tkinter that automated inventor
 -   Best practices for large-scale application design and deployment.
 
 Feel free to reach out—I'm always open to connecting and discussing technology and new opportunities!
+
+## Help Palestine 🇵🇸
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
