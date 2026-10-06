@@ -1,76 +1,178 @@
-# Hi there, I'm Yousef Tamer 👋
+# Hi, I'm Yousef Tamer 👋
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousef-tamer-moharam/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:youseftmoharam2511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/DragSensei">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-I'm a results-driven Computer Science student at Ain Shams University with a passion for designing, developing, and deploying full-stack desktop applications. I have hands-on experience building complete systems from the ground up, with a focus on creating efficient, user-friendly, and robust software.
+## About Me
+
+I'm a Computer Science student at **Ain Shams University** focused on building complete software products — from frontend interfaces and backend APIs to databases, deployment, and production workflows.
+
+My main interests are:
+
+- Full-stack web development
+- SaaS and multi-role platforms
+- E-commerce systems
+- API-driven applications
+- Database design and performance
+- AI-assisted software engineering
+- Scalable and maintainable application architecture
+
+I enjoy working on systems where the challenge goes beyond building screens — authentication, permissions, workflows, dashboards, business logic, integrations, performance, and deployment.
 
 ---
 
-### 💻 Skills & Technologies
+## Tech Stack
 
-<p align="left">
-  <strong>Languages:</strong><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<p align="left">
-  <strong>Frameworks & Libraries:</strong><br/>
-  <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" alt="Tkinter"/>
-  <img src="https://img.shields.io/badge/JavaFX-blue?style=for-the-badge" alt="JavaFX"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 </p>
 
-<p align="left">
-  <strong>Tools & Databases:</strong><br/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/PyInstaller-grey?style=for-the-badge" alt="PyInstaller"/>
+### Engineering & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
 </p>
+
+### Also Worked With
+
+`Java` · `C++` · `JavaFX` · `Tkinter` · `PyTorch` · `TensorFlow` · `Pandas` · `NumPy`
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-#### [Watch-It Media Player](https://github.com/yusufahmed9/watch-it)
-A desktop media player built with JavaFX that supports streaming and browsing for a large library of movies and series. It features a robust authentication and role-based access system for users and administrators.
+### 🎓 Nexus Academy / Future Minds
 
-* **Key Features:** User subscription plans, content management for admins, and a searchable media library.
-* **Technologies:** Java, JavaFX, Maven, JSON for data storage.
+A multi-role educational platform built for **500+ users**, with dedicated experiences for administrators, instructors, and students.
 
-#### [Restaurant Management System (POS)](https://github.com/DragSensei/restaurant-project)
-A comprehensive POS system built with Python and Tkinter that automated inventory management, sales tracking, and role-based access control, improving efficiency by an estimated 30%.
+**Highlights**
+- Admin, instructor, and student dashboards
+- Role-based access and structured workflows
+- Reporting and data management
+- REST API-driven architecture
+- Docker-based deployment workflow
+- CI/CD automation with GitHub Actions
 
-* **Key Features:** Bilingual (EN/AR) support, real-time inventory tracking, and financial report exporting to PDF/CSV.
-* **Technologies:** Python, Tkinter, SQLite, ReportLab, Pandas.
+**Stack:** React.js, Tailwind CSS, Python, Node.js, Docker
 
 ---
 
-### 🌱 I'm Currently Learning
+### 🛍️ Diyah E-Commerce
 
--   Advanced machine learning techniques and exploring new deep learning architectures.
--   Best practices for large-scale application design and deployment.
+A modern e-commerce experience focused on clean product presentation, responsive design, and a smooth shopping flow.
 
-Feel free to reach out—I'm always open to connecting and discussing technology and new opportunities!
+**Highlights**
+- Product catalog and browsing experience
+- Responsive storefront
+- Reusable frontend components
+- Shopping-oriented UI/UX
+- Structured for future commerce features
+
+**Repository:**  
+https://github.com/DragSensei/Wajha-scarves
+
+---
+
+### 🪑 Movano Furniture E-Commerce
+
+A full-stack furniture storefront with authentication, cart functionality, database-backed product management, and performance optimizations.
+
+**Highlights**
+- JWT-based authentication
+- Dynamic shopping cart
+- SQL-backed product data
+- Database indexing
+- Lazy-loaded images and frontend performance improvements
+
+**Stack:** Python, Flask, JavaScript, SQL
+
+---
+
+### 🚗 Wajha Automobile Platform
+
+A search-heavy vehicle platform designed around fast filtering and responsive interaction with backend APIs.
+
+**Highlights**
+- Multi-parameter search and filtering
+- Client-side state caching
+- REST API integration
+- Optimized backend queries
+- Responsive React interface
+
+**Stack:** React.js, Vite, Python, Tailwind CSS, REST APIs
+
+---
+
+## How I Build
+
+I care about more than getting a feature to work once.
+
+I try to build software around:
+
+- Clear architecture and separation of concerns
+- Reusable components
+- Maintainable APIs
+- Role-based permissions
+- Reliable database design
+- Validation and error handling
+- Performance-conscious implementation
+- Git-based development workflows
+- Deployment and production readiness
+
+I also use modern **AI-assisted engineering workflows** to accelerate development, debugging, testing, refactoring, and code review while keeping architecture and final engineering decisions under human control.
+
+---
+
+## Currently Exploring
+
+- Advanced SaaS architecture and multi-tenancy
+- AI agents and autonomous development workflows
+- LLM integrations and AI-powered product features
+- Scalable backend architecture
+- Event-driven systems, queues, and background jobs
+- Better testing and deployment automation
+
+---
+
+## Let's Connect
+
+I'm interested in building products that solve real operational problems — especially SaaS platforms, e-commerce systems, dashboards, automation tools, and AI-enabled applications.
+
+Feel free to reach out through **LinkedIn** or **email**.
+
+---
 
 ## Help Palestine 🇵🇸
 
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+[![Support Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
